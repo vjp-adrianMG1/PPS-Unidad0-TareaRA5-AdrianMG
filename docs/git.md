@@ -20,13 +20,27 @@ Documentar el proceso de creación del repositorio en GitHub y su configuración
 ### 2. Inicialización del repositorio local
 En mi máquina, inicialicé el repositorio con los siguientes comandos:
 
+#Repositorio DevSecOps, para copiar la estructura
 ```bash
-git clone https://github.com/vjp-adrianMG1/PPS-Unidad0ActividadGit-AdrianMG.git #Repositorio DevSecOps, para copiar la estructura
-git clone https://github.com/vjp-adrianMG1/PPS-Unidad0-TareaRA5-AdrianMG.git #Para pegar la estructura de DevSecOps en el nuevo repositorio
+git clone https://github.com/vjp-adrianMG1/PPS-Unidad0ActividadGit-AdrianMG.git
+```
+
+#Para pegar la estructura de DevSecOps en el nuevo repositorio
+```bash
+git clone https://github.com/vjp-adrianMG1/PPS-Unidad0-TareaRA5-AdrianMG.git 
+```
+
+#Para copiar tambien archivos ocultos usamos 2>dev/null
+```bash
 cp -r carpeta-del-repositorio-Devsecops/* carpeta-del-repositorio-TareaRA5
-cp -r carpeta-del-repositorio-Devsecops/* carpeta-del-repositorio-TareaRA5 2>dev/null #Para copiar tambien archivos ocultos
+cp -r carpeta-del-repositorio-Devsecops/* carpeta-del-repositorio-TareaRA5 2>dev/null
+```
+
+
 #Luego de esto, subimos los cambios
+```bash
 git add .
 git commit -m "Estructura de datos copiada"
 git push
+```
 #Y listo, podríamos continuar con la prática

@@ -1,21 +1,16 @@
-# Calculadora Python
+# Unidad 0 - Tarea RA5
 
-Bienvenido a la documentación de la Calculadora Python.
+## Introducción
+En esta tarea se documentan las operaciones realizadas en la Unidad 0, aplicando conocimientos de:
+- Lenguaje de marcas Markdown
+- Sistemas de control de versiones con Git
+- Creación y administración de contenedores con Docker
+- Ciclos de desarrollo software seguros (SecDevOps)
+- Documentación técnica
 
-## Descripción
-
-Esta calculadora tiene una interfaz gráfica usando Tkinter.
-
-## Uso
-
-Ejecuta el script `calculator/gui.py` para iniciar la calculadora.
-
-## Requisitos
-
-- Python 3.x
-- Tkinter
-[![Licencia: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-## Problemas
-
-Si tienes algún problema [Pincha aquí](https://github.com/vjp-adrianMG1/PPS-Unidad0ActividadGit-AdrianMG.git) o sjhfsjkdfs
+## Índice
+- [Creación del repositorio](git.md)
+- [Workflows y GitHub Actions](gitActions.md)
+- [GitHub Pages](gitPages.md)
+- [Docker y NGinx](docker.md)
+- [Conclusiones](conclusiones.md)

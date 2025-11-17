@@ -27,8 +27,8 @@ jobs:
       - name: Generar documentación con MkDocs
         run: mkdocs build
 
-      - name: Publicar en GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+      - name: Deploy docs
+        run: mkdocs gh-deploy --force
+         env:
+           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

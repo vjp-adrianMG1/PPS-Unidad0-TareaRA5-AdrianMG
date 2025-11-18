@@ -19,7 +19,7 @@ docker run -d --name PPSUnidad0-Tarea_Adrian -p 8085:80 -v "$(pwd)":/usr/share/n
    http://localhost:8085
 
 
-4. Se inspeccionó el contenedor:
+4. Se inspeccionó el contenedor como prueba de su creación:
 ```bash
  docker inspect PPSUnidad0-Tarea_Adrian > inspect.txt
 ```

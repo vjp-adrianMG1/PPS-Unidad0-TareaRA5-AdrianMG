@@ -14,3 +14,6 @@ En esta tarea se documentan las operaciones realizadas en la Unidad 0, aplicando
 - [GitHub Pages](gitPages.md)
 - [Docker y NGinx](docker.md)
 - [Conclusiones](conclusiones.md)
+
+
+![Texto alternativo](../capturas/mkdocs.png)

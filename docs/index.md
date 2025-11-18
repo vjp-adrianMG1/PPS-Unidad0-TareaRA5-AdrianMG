@@ -16,4 +16,5 @@ En esta tarea se documentan las operaciones realizadas en la Unidad 0, aplicando
 - [Conclusiones](conclusiones.md)
 
 
-![Texto alternativo](../capturas/mkdocs.png)
+![Texto alternativo](capturas/mkdocs.png)
+

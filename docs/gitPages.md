@@ -17,5 +17,5 @@ La documentación está disponible en:
 
 ## Capturas
 
-- ![Configuración de GitHub Pages](../capturas/pages-configuracion.png)
-- ![Visualización de la web publicada](../capturas/pages-visualizacion.png)
+- ![Configuración de GitHub Pages](../capturas/CapturaConfiguracionDePages.png)
+

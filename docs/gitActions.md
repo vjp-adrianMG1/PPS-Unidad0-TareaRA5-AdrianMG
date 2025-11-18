@@ -7,10 +7,10 @@ Este workflow se encarga de instalar dependencias, generar la documentación y p
 ## Creación del workflow
 
 1. Se creó el archivo en la ruta: `.github/workflows/CreacionDocumentacion.yml`
-![Texto alternativo](../capturas/CreacionDocumentacion.png)
+![Texto alternativo](capturas/CreacionDocumentacion.png)
 
 2. Configuración del Apartado Actions:
-![Texto alternativo](../capturas/Actions.png)
+![Texto alternativo](capturas/Actions.png)
 
 3. Contenido del workflow:
 

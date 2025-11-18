@@ -13,7 +13,7 @@ Documentar el proceso de creación del repositorio en GitHub y su configuración
 - Añadí al profesor como colaborador:  
   *Settings > Collaborators > Invite a collaborator* → usuario `PPSvjp`.
 
-![Texto alternativo](../capturas/CapturaRepositorioGithub.png)
+![Texto alternativo](capturas/CapturaRepositorioGithub.png)
 
 ---
 
